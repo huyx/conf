@@ -1,0 +1,15 @@
+# cn.archive.ubuntu.com
+# mirrors.sohu.com
+# mirrors.163.com
+# mirrors.aliyun.com
+# mirrors.aliyuncs.com - 阿里云内网，不占外网流量
+
+deb http://cn.archive.ubuntu.com/ubuntu/ xenial main restricted multiverse universe
+deb http://cn.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ xenial-updates main restricted multiverse universe
+deb http://cn.archive.ubuntu.com/ubuntu/ xenial-security main restricted multiverse universe
+
+# deb-src http://cn.archive.ubuntu.com/ubuntu/ xenial main restricted multiverse universe
+# deb-src http://cn.archive.ubuntu.com/ubuntu/ xenial-backports main restricted universe multiverse
+# deb-src http://cn.archive.ubuntu.com/ubuntu/ xenial-updates main restricted multiverse universe
+# deb-src http://cn.archive.ubuntu.com/ubuntu/ xenial-security main restricted multiverse universe
